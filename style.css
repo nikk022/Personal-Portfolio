@@ -524,6 +524,9 @@ section .title::after{
 .skills-content .right .js::before{
     width: 70%;
 }
+.skills-content .right .tail::before{
+    width: 80%;
+}
 .skills-content .right .boot::before{
     width: 75%;
 }
